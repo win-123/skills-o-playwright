@@ -1,0 +1,16 @@
+{
+  "name": "skills-o-playwright",
+  "version": "1.0.0",
+  "description": "A universal Playwright skill for Claude Code to enable browser automation",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["playwright", "automation", "claude", "skill"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "playwright": "^1.40.0"
+  }
+}
